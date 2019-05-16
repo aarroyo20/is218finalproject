@@ -79,6 +79,15 @@
       <path value="$PROJECT_DIR$/is218finalproject/vendor/jakub-onderka/php-console-highlighter" />
       <path value="$PROJECT_DIR$/is218finalproject/vendor/jakub-onderka/php-console-color" />
       <path value="$PROJECT_DIR$/is218finalproject/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/is218finalproject/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/is218finalproject/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/is218finalproject/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/is218finalproject/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/is218finalproject/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/is218finalproject/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/is218finalproject/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/is218finalproject/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/is218finalproject/vendor/doctrine/cache" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
